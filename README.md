@@ -29,6 +29,6 @@ cd desafio-projeto-docker
 
 ### 3. Executanto o projeto
 ```bash
-docker compose up | docker-compose up
+docker compose up
 ```
 
